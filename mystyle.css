@@ -1,0 +1,169 @@
+
+
+
+
+/* top container */
+.navbar{
+  
+    padding: 10px;
+    font-size: 20px;
+}
+
+ .my-resort{
+    color: black;
+}
+.home{
+    color: black;
+}
+ .blog-link{
+    color: black;
+}
+ .contacts{
+    color: black;
+}
+
+.nav-item{
+    font-weight: 300;
+}
+
+
+/* first container */
+
+.slide-image-1{
+    
+    background-position: center;
+    background-size: cover; 
+    width: 100%;
+}
+
+
+
+
+.slide-image-2{
+    
+    background-position: center;
+    background-size: cover; 
+  
+    width:100%;
+}
+
+
+
+
+.slide-image-3{
+
+    background-position: center;
+    background-size: cover; 
+    width: 100%;
+}
+
+
+
+
+.slide-image-4{
+ 
+    background-position: center;
+    background-size: cover; 
+    width: 100%;
+   
+}
+
+.slide-image-5{
+
+    background-position: center;
+    background-size: cover; 
+    width: 100%;
+   
+}
+
+
+.container h1{
+    color: rgb(12, 12, 12);
+        
+}
+.container p{
+    color: black;
+}
+
+
+
+/* second container */
+
+.room-1{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.room-2{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.room-3{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+
+/* third container */
+
+.amenities-01{
+    width: 500px;
+    height: 500px;
+    border-radius: 50px;
+}
+
+.amenities-02{
+    width: 500px;
+    height: 500px;
+    border-radius: 50px;
+    
+}
+
+.amenities-03{
+    width: 500px;
+    height: 500px;
+    border-radius: 50px;
+}
+
+
+/* footer */
+.container-footer{
+    color: black;
+    background-color: rgb(248, 248, 248);
+    padding: 20px;
+    align-items: center;
+    text-align: center;
+    margin-bottom: -50px;
+}
+
+@media (max-width: 670px) {
+
+    
+.amenities-01{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+
+.amenities-02{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+    text-align: center;
+    
+}
+
+.amenities-03{
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+    
+}
